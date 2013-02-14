@@ -1,0 +1,14 @@
+InfoKey: Creator
+InfoValue: Writer&#0;
+InfoKey: Producer
+InfoValue: OpenOffice.org 3.2&#0;
+InfoKey: Author
+InfoValue: workshop&#0;
+InfoKey: CreationDate
+InfoValue: D:20130213131121+08'00'
+PdfID0: 6641b220d6582729fe23a7c9fa6a3fd
+PdfID1: 6641b220d6582729fe23a7c9fa6a3fd
+NumberOfPages: 1
+BookmarkTitle: hello&#0;
+BookmarkLevel: 1
+BookmarkPageNumber: 1
