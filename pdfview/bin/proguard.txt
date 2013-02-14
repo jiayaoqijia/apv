@@ -1,0 +1,12 @@
+# view AndroidManifest.xml #generated:67
+-keep class cx.hell.android.pdfview.AboutPDFViewActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:37
+-keep class cx.hell.android.pdfview.ChooseFileActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:44
+-keep class cx.hell.android.pdfview.OpenFileActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:68
+-keep class cx.hell.android.pdfview.Options { <init>(...); }
+
