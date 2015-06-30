@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-hihi
+
 #define KEY 0xD8
 int main(int argc, char **argv)
 {
